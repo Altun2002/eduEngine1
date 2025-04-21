@@ -1,0 +1,14 @@
+# Target labels
+ sdl2-populate
+# Source files and their labels
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/sdl2-populate
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/9a8bf5f66514ac220c510df2e6093227/sdl2-populate.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/dee21208d9c1d324029ed00836ff6f94/sdl2-populate-complete.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-build.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-configure.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-download.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-install.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-mkdir.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-patch.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-test.rule
+C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-update.rule

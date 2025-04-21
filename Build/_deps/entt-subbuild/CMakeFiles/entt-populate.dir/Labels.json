@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/entt-populate"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/5727eec600f9f32dca14bfa3bc17f8e6/entt-populate.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/51088f3ed85257febb80a46a4b77f0c8/entt-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/entt-subbuild/CMakeFiles/29658e9528486ba42bf0e32c41876a62/entt-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"entt-populate"
+		],
+		"name" : "entt-populate"
+	}
+}

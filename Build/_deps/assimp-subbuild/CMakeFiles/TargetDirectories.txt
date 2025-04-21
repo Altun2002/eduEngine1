@@ -1,0 +1,3 @@
+C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/assimp-populate.dir
+C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/ZERO_CHECK.dir

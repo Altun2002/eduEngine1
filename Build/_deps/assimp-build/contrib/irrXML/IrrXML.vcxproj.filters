@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\irrXML.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\CXMLReaderImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\heapsort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\irrArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\irrString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\irrTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\irrXML.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-src\contrib\irrXML\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{75A7908C-9DA4-39EB-ACD4-DE0CCE86767D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93CDE407-7809-3DB8-B6D3-22BC0202262F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

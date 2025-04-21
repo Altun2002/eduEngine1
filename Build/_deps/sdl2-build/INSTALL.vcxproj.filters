@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\CMakeFiles\24b226f6c4142583a2a15128732a6375\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8372218B-E47B-3832-890E-B680D56F2AB2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

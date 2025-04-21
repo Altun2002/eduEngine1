@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/assimp-populate"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/605c13e300c332b58c17a49c03f12a2c/assimp-populate.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/04876d52a74f47bc06d18a754127c946/assimp-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/assimp-subbuild/CMakeFiles/106f1550964189c5b649a406f44b2200/assimp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"assimp-populate"
+		],
+		"name" : "assimp-populate"
+	}
+}

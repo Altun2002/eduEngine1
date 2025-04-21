@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\29658e9528486ba42bf0e32c41876a62\entt-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\51088f3ed85257febb80a46a4b77f0c8\entt-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\5727eec600f9f32dca14bfa3bc17f8e6\entt-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\altun\Documents\eduEngine\Build\_deps\entt-subbuild\CMakeFiles\entt-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BBF8E0F8-BFA9-392B-8EF6-5D89509981EF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

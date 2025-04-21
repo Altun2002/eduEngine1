@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\605c13e300c332b58c17a49c03f12a2c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{66D3AC99-2A2E-3D46-8DFD-4B802D4B201A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

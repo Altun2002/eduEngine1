@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\d74639b7b3f262e57b046a7411e282af\stb-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\b8b9913f7c068bbd2beb380e6913f66b\stb-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\f58200c4f3240ad32a895f276be9af54\stb-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\altun\Documents\eduEngine\Build\_deps\stb-subbuild\CMakeFiles\stb-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B4F2DA8D-166F-3E33-94FB-AA499C3C20C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

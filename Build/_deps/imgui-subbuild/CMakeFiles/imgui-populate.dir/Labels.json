@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/7adbbf704473eba2634da0f75980488c/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/74bcd83d8c2a5c0b6f3ab6fa717c3fdc/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/imgui-subbuild/CMakeFiles/12111cc2b04fc9d6425c26646da2e2ef/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

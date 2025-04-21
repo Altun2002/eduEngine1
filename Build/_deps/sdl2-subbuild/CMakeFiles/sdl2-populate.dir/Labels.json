@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/sdl2-populate"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/9a8bf5f66514ac220c510df2e6093227/sdl2-populate.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/dee21208d9c1d324029ed00836ff6f94/sdl2-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/sdl2-subbuild/CMakeFiles/700f725812429f9b7b9db578d2cfac48/sdl2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sdl2-populate"
+		],
+		"name" : "sdl2-populate"
+	}
+}

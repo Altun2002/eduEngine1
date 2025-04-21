@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\106f1550964189c5b649a406f44b2200\assimp-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\04876d52a74f47bc06d18a754127c946\assimp-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\605c13e300c332b58c17a49c03f12a2c\assimp-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\altun\Documents\eduEngine\Build\_deps\assimp-subbuild\CMakeFiles\assimp-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{66D3AC99-2A2E-3D46-8DFD-4B802D4B201A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

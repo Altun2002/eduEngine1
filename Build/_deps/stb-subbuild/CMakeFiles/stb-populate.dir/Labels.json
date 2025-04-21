@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/stb-populate"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/f58200c4f3240ad32a895f276be9af54/stb-populate.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/b8b9913f7c068bbd2beb380e6913f66b/stb-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/altun/Documents/eduEngine/Build/_deps/stb-subbuild/CMakeFiles/d74639b7b3f262e57b046a7411e282af/stb-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-populate"
+		],
+		"name" : "stb-populate"
+	}
+}
